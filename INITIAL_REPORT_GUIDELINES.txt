@@ -1,0 +1,9 @@
+Dear Students, you are requested to discuss with your guide and submit the initial report consisting:
+1. Introduction 
+2. Problem Statement
+3. Literature Review (5 papers at least)
+4. Proposed Methodology 
+5. Software and Hardware Requirement 
+6. Experiments and Results (options)
+7. Conclusion 
+8. References
